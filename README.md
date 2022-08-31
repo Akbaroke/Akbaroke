@@ -15,7 +15,7 @@
 
 ## Education:
 
-#### 1. [SMA N 1 Cibarusah](https://dapo.kemdikbud.go.id/sekolah/3FC3F54A8722F78562FB) | MIPA | Kebumen `2016-2019`
+#### 1. [SMA N 1 Cibarusah](https://dapo.kemdikbud.go.id/sekolah/3FC3F54A8722F78562FB) | MIPA | Cibarusah, Kab.Bekasi `2016-2019`
 
 - Vice Chairman of Pradana
 
