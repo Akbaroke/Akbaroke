@@ -6,3 +6,8 @@
 <br/>
 
 ## About me:
+
+- 🎓 I am a student at a private university in Indonesia and majoring in informatics engineering.
+- 🌱 I’m currently learning ReactJs and ExpressJs
+- 👯 I’m looking to collaborate as Frontend Web Developer
+- 📫 How to reach me: [akbarmuhammad833@gmail.com](mailto:akbarmuhammad833@gmail.com)
