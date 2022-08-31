@@ -25,6 +25,9 @@
 <img align="left" alt="Python" width="30px" src="https://cdn2.downdetector.com/static/uploads/c/300/0d4f7/figma2.png" style="padding-right:10px;" />
 <img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" style="padding-right:10px;" />
 
+<br/>
+<br/>
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Akbaroke&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Akbaroke&theme=dark&hide_border=true" width = 400>
