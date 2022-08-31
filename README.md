@@ -21,9 +21,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />]
-[<img align="left" alt="Python" width="30px" src="https://cdn2.downdetector.com/static/uploads/c/300/0d4f7/figma2.png" style="padding-right:10px;" />]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" style="padding-right:10px;" />]
+<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="30px" src="https://cdn2.downdetector.com/static/uploads/c/300/0d4f7/figma2.png" style="padding-right:10px;" />
+<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" style="padding-right:10px;" />
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Akbaroke&show_icons=true&theme=bear" width = 400>
