@@ -27,7 +27,7 @@
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />
 <img align="left" alt="Html" width="30px" src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" style="padding-right:10px;" />
-<img align="left" alt="Css" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Css" width="30px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />
