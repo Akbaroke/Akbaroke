@@ -35,6 +35,13 @@
 <br/>
 <br/>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Akbaroke/count.svg" />
+</p>
+
+<br/>
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Akbaroke&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Akbaroke&theme=dark&hide_border=true" width = 400>
