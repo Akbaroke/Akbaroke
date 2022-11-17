@@ -32,6 +32,7 @@
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="NodeJs" width="30px" src="https://user-images.githubusercontent.com/94231436/202381966-6dc99811-bc19-4187-9df9-46b3d368f22c.png" style="padding-right:10px;" />
+<img align="left" alt="NodeJs" width="30px" src="https://user-images.githubusercontent.com/94231436/202381966-6dc99811-bc19-4187-9df9-46b3d368f22c.png" style="padding-right:10px;" />
 
 <br/>
 <br/>
