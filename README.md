@@ -24,7 +24,7 @@
 - 🏠 Live in `Bekasi, Indonesia`
 - 👶🏻 Born in `Bandung, September 15st 2001`
 - 🧍🏻‍♂️ `22` years old
-- 💻 `Informatics Engineering` Student at `Universitas Pelita Bangsa`
+- 💻 `5th` semester `Informatics Engineering` students
 - 🌟 Currently, `React.js` and `Typescript` are my favorite tech stack.
 - 🌏 Languages
   - 🇮🇩 Indonesian
