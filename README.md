@@ -1,4 +1,4 @@
-[![akbaroke's header](./images/banner-github.png)](https://www.akbaroke.my.id/)
+[![akbaroke's header](./images/banner-github-nofill.png)](https://www.akbaroke.my.id/)
 
 <p align=center>
   <a href="https://t.me/akbaroke833">
