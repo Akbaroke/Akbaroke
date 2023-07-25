@@ -22,8 +22,7 @@
 
 - 👨🏻‍💼 My name is `Muhammad Akbar`
 - 🏠 Live in `Bekasi, Indonesia`
-- 👶🏻 Born in `Bandung, September 15st 2001`
-- 🧍🏻‍♂️ `22` years old
+- 👶🏻 Born in `Bandung`
 - 💻 `5th` semester `Informatics Engineering` students
 - 🌟 Currently, `React.js` and `Typescript` are my favorite tech stack.
 - 🌏 Languages
