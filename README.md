@@ -20,10 +20,6 @@
 
 ### Stats 📋
 
-| GitHub Stats                                                                                                                                                                    | Contribution Streak                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akbaroke&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaroke&count_private=true&theme=tokyonight" /> |
-
-| WakaTime Stats                                                                                                                                   | Most Used Languages                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akbaroke&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akbaroke&langs_count=10&theme=tokyonight&layout=compact&hide=hack,php,cmake" /> |
+| WakaTime Stats                                                                                                                                   | Contribution Streak                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akbaroke&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaroke&count_private=true&theme=tokyonight" /> |
