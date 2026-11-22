@@ -1,13 +1,13 @@
 {
   "username": "akbaroke",
-  "generated_at": "2026-11-21T14:40:41Z",
+  "generated_at": "2026-11-22T14:36:44Z",
   "range": {
-    "start": "2025-11-16",
-    "end": "2026-11-21"
+    "start": "2025-11-23",
+    "end": "2026-11-22"
   },
-  "total_contributions": 3589,
-  "active_days": 322,
-  "avg_per_active_day": 11.1,
+  "total_contributions": 3521,
+  "active_days": 315,
+  "avg_per_active_day": 11.2,
   "current_streak": {
     "length": 114,
     "start": "2026-07-31",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-11",
-      "total": 128
+      "total": 59
     },
     {
       "month": "2025-12",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 206
+      "total": 207
     }
   ],
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 1
-    },
-    {
-      "date": "2025-11-17",
-      "count": 8
-    },
-    {
-      "date": "2025-11-18",
-      "count": 13
-    },
-    {
-      "date": "2025-11-19",
-      "count": 20
-    },
-    {
-      "date": "2025-11-20",
-      "count": 10
-    },
-    {
-      "date": "2025-11-21",
-      "count": 8
-    },
-    {
-      "date": "2025-11-22",
-      "count": 9
-    },
     {
       "date": "2025-11-23",
       "count": 12
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-11-21",
-      "count": 23
+      "count": 24
+    },
+    {
+      "date": "2026-11-22",
+      "count": 0
     }
   ]
 }
